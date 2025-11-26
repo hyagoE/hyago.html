@@ -1,0 +1,15 @@
+:root{
+    ---cor-de-fundo:#762828;
+    ---cor-da-fonte:#abb81ff4;
+
+}
+
+body{
+
+    background-color: var(---cor-de-fundo);
+    color:var(---cor-da-fonte);
+    text-align: justify;
+
+}
+
+
